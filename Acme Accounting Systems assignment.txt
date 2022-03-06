@@ -1,0 +1,13 @@
+using System;
+
+namespace Sample
+{
+class Test
+{
+ public static void Main(string[] args)//this is the main function
+ {
+  System.Console.WriteLine("Welcome to Acme Accounting Systems");// this line provides the output on the console  
+  System.Console.WriteLine("Remember we're 'accounting' on you");// this line provides the output on the console  
+ }
+}
+}
